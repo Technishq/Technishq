@@ -33,7 +33,7 @@
 </ul>
 
 <h2 align="center">💻 Tech Stack</h2>
-<img align="right" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt="coding gif" width="250">
+<img align="right" src="https://media.giphy.com/media/BY8ORoRpnJDXeBNwxg/giphy.gif alt="coding gif" width="250">
 
 <ul>
   <li>Languages: C, C++, Python, Dart, Kotlin, Matlab</li>
