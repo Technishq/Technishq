@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBqo7IWs9367IVG/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" />
 </p>
 
 <h2 align="center">🎓 About Me</h2>
@@ -47,13 +47,25 @@
 </ul>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/l2SpX4hILlPZ7Ttq4/giphy.gif" width="250" />
 </p>
 
 <h2 align="center">📫 Let's Connect!</h2>
 
 <p align="center">
-  Feel free to connect with me on <a href="https://www.linkedin.com/in/your-linkedin-profile/">LinkedIn</a> or drop me a message at <strong>er.tanishqs@gmail.com</strong>. I am always eager to collaborate, learn, and share knowledge!
+  Feel free to connect with me:
+</p>
+
+<p align="center">
+  <a href="mailto:er.tanishqs@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="30" height="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/itanishq/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30" />
+  </a>
+  <a href="https://www.instagram.com/i_tanishq_here_/">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="30" height="30" />
+  </a>
 </p>
 
 <p align="center">
