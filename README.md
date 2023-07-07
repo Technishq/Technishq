@@ -27,8 +27,7 @@
 <p>
 </p>
 <h2 align="center">⚡ Core Competencies</h2>
-<p>
-<img align="right" src="https://media.giphy.com/media/13Syr1nwDffUcw/giphy.gif" width="250" >
+<img align="right" src="https://media.giphy.com/media/13Syr1nwDffUcw/giphy.gif" width="250" height="150" >
 
 <ul>
   <li>Quick Learner</li>
@@ -36,7 +35,6 @@
   <li>Logical Skills</li>
   <li>Good Grasping Ability</li>
 </ul>
-</p>
 <h2 align="center">💻 Tech Stack</h2>
 <img align="right" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt="coding gif" width="250">
 
