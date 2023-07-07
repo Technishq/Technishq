@@ -24,7 +24,8 @@
   <li>Passionate about analyzing and designing software-based solutions for various domains, including e-commerce and healthcare.</li>
   <li>Well-equipped with object-oriented concepts and their implementation.</li>
 </ul>
-
+<p>
+</p>
 <h2 align="center">⚡ Core Competencies</h2>
 <img align="right" src="https://media.giphy.com/media/13Syr1nwDffUcw/giphy.gif" width="250">
 
