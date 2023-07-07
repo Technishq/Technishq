@@ -5,11 +5,12 @@
 </p>
 
 <p align="center">
+    <img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" />
+
   I'm <strong>Tanishq Singh</strong>, a passionate and driven individual seeking an internship opportunity to enhance my skills and gain valuable hands-on experience working alongside industry professionals.
 </p>
 
 <p align="center">
-  <img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" />
 </p>
 
 <h2 align="center">🎓 About Me</h2>
