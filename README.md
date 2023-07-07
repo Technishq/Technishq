@@ -15,7 +15,7 @@
 </p>
 
 <h2 align="center">🎓 About Me</h2>
-<img align="right" src="https://media.giphy.com/media/BY8ORoRpnJDXeBNwxg/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/BY8ORoRpnJDXeBNwxg/giphy.gif" width="250">
 
 <ul>
   <li>Currently pursuing my 4th semester of BE in Electronics and Communication at MIT College.</li>
