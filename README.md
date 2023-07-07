@@ -26,6 +26,7 @@
 </ul>
 
 <h2 align="center">⚡ Core Competencies</h2>
+<img align="right" src="https://media.giphy.com/media/13Syr1nwDffUcw/giphy.gif" width="250">
 
 <ul>
   <li>Quick Learner</li>
